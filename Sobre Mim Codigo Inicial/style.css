@@ -59,7 +59,7 @@ text-align: center;
   justify-content: space-between;
   max-width: 790px;
   margin:100px auto 50px
-  /* add missing declarations */
+
 }
 .card{
   width: 350px;
